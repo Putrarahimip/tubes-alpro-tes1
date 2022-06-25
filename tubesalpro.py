@@ -235,12 +235,7 @@ def kalokal():
             data_file = open("Bukti Pemesanan.txt","a")
             data_file.write(data)
             data_file.close
-            # with open("KesanPesan.txt", "a") as file:
-            #     file.write("\n")
-            #     file.write("Nama :"+nama)
-            #     # file.write("\n")
-            #     file.write("Umur :"+umur)
-            #     # file.write("\n")
+            break
 
         elif pilih == 0:
             print("Terima Kasih telah menggunakan Layanan Pembelian Tiket Kereta Api Lokal")
@@ -248,7 +243,7 @@ def kalokal():
         
         else :
             print("Fungsi Tidak Tersedia, Silahkan masukkan nomor yang dipilih")
-            break
+
         
 # Menu utama program
 while True:

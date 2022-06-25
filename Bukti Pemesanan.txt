@@ -1,6 +1,6 @@
-Booking dengan Nama Jeje dan umur 28 berhasil dipesan!
-Nama                    : Jeje
-Tanggal Booking         : 20
+Booking dengan Nama Revisi dan umur 22 berhasil dipesan!
+Nama                    : Revisi
+Tanggal Booking         : 29 Juni 2022
 Jumlah Penumpang        : 2 Orang
-Keberangkatan - Tujuan  : Stasiun Bandung - Stasiun Cimindi
+Keberangkatan - Tujuan  : Stasiun Bandung - Stasiun Cimahi
 Rincian Biaya           : Rp 50000
